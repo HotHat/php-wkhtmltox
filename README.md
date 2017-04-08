@@ -28,3 +28,5 @@ edit your `php.ini` and add:
 
 ### OSX Notes:
 Until [this bug](http://bugreports.qt-project.org/browse/QTBUG-5952) is fixed you need `qt_menu.nib` directory from the QT source tree in the same directory as your `libwkhtmltox.*` library files
+
+php 7 can use now.
